@@ -23,3 +23,4 @@ Steps in python code:
 8. Based on the admittance control law, get the acceleration of the manipulator.
 ![law](https://user-images.githubusercontent.com/44584200/146104450-cde52cff-553b-4819-9d12-4cbeba12d85b.PNG)
 
+By giving the initial condition (manipulator's position, velocity), and desired parameters (mass, coefficients of damping and stiffness). The acceleration of the manipulator can be calculated. 
